@@ -1,1 +1,1 @@
-# udemy-mastering-thymeleaf-with-spring
+# Mastering Thymeleaf with Spring
